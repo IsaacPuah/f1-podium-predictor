@@ -2,9 +2,7 @@
 
 A machine learning web app that predicts Formula 1 podium finishes based on grid position and team.
 
-**[Live Demo](https://isaacpuah-f1-podium-predictor.streamlit.app)** *(update this link after deploying)*
-
-![App Screenshot](screenshot.png) *(add a screenshot later)*
+**[Live Demo](https://isaacpuah-f1-podium-predictor.streamlit.app)**
 
 ## Overview
 
@@ -80,7 +78,7 @@ streamlit run app.py
 **Isaac Puah** — UC Berkeley EECS
 
 - GitHub: [@IsaacPuah](https://github.com/IsaacPuah)
-- LinkedIn: [linkedin.com/in/isaacpuah](https://linkedin.com/in/isaacpuah) *(update if different)*
+- LinkedIn: [linkedin.com/in/isaacpuah](https://linkedin.com/in/isaacpuah) 
 
 ## License
 
